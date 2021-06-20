@@ -42,16 +42,6 @@ class ChuckNorris {
             }
             in.close();
         }
-
-
-
-
-
-
-        // Write an answer using System.out.println()
-        // To debug: System.err.println("Debug messages...");
-
-        // System.out.println("answer");
     }
 
     public static StringBuilder toBinary(char[] chars) {
